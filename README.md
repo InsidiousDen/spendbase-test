@@ -38,5 +38,4 @@ Use performance monitoring tools such as Google Lighthouse to analyze areas for 
 
 - **dev**: Run the development server using Vite.
 - **build**: Build the project using TypeScript and Vite.
-- **lint**: Lint the project using ESLint.
 - **test**: Run tests using Vitest.
